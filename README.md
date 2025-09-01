@@ -153,8 +153,8 @@ Implementation:
 
 
 ```markdown
-![Bollinger Bands with Inputs](./public/screenshots/screenshot-1.png)
-![Style Panel & Fill](./public/screenshots/screenshot-2.png)
+![Bollinger Bands with Inputs](./screenshots/screenshot-1.png)
+![Style Panel & Fill](./screenshots/screenshot-2.png)
 ```
 
 ---
